@@ -1,0 +1,8 @@
+{
+  "Tokens": {
+    "key": "dbjkds:f;ccfkdsdkfkglnlnvf,ghhj",
+    "Issuer": "http://www.security.org",
+    "Audience": "http://www.security.org",
+    "ExpiryInMinutes": "20"
+  }
+}
